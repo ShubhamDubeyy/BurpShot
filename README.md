@@ -39,7 +39,7 @@ Here is a professionally structured `README.md` file for your GitHub repository.
 2. Open **Burp Suite**.
 3. Navigate to **Extensions** > **Installed**.
 4. Click **Add**, select **Java**, and choose your file.
-5. **BurpShot Pro** is now ready!
+5. **BurpShot** is now ready!
 
 ## 🛠 Usage
 
@@ -47,7 +47,3 @@ Here is a professionally structured `README.md` file for your GitHub repository.
 2. Select **Open BurpShot**.
 3. Format your evidence using the **Redact**, **No Headers**, or **Highlighter** tools.
 4. Hit **Save Image** to generate your report-ready PNG.
-
----top of your README so users can see the "Sleek Pro Design" immediately.
-
-Would you like me to also write the **LICENSE** file or a **Release Note** for your version 1.0?
