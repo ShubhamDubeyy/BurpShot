@@ -1,8 +1,6 @@
 # BurpShot
 🚀 BurpShot – A high-performance Burp Suite extension for creating professional, redacted, and searchable screenshots of Repeater requests and responses. Perfect for bug bounty reports and security documentation.
 
-Here is a professionally structured `README.md` file for your GitHub repository. It uses clean Markdown formatting, professional terminology, and clear sections to make your tool look like an industry-standard extension.
-
 ## 🌟 Features
 
 ### 🔍 Search & Navigation
